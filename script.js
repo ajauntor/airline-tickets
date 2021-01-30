@@ -54,3 +54,9 @@ function total() {
     document.querySelector("#vat").innerText = vat;
     document.querySelector("#total").innerText = totalAmount;
 }
+
+// extra part
+
+function myFunction() {
+    alert("THANKS FOR CHOOSING OUR AIRLINE");
+  }
